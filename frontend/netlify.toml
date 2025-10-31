@@ -9,4 +9,4 @@
 
 [build.environment]
   NODE_VERSION = "18"
-  VITE_API_URL = "https://taskpilot-8qg3.onrender.com"
+  VITE_API_URL = "https://taskpilot-8qg3.onrender.com/api"
